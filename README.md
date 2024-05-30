@@ -1,11 +1,11 @@
 # Pour lancer le projet :
 
 1)
-- git clone le backend le projet CRUD_spring
+- git clone le backend le projet CRUD_spring : https://github.com/moudjane/CRUD_spring 
 - ajouter les informations de sa base de données mysql par exemple dans le application.properties : nom de la base de données, username et password
 
 2)
-- git clone le frontend le CRUD_angular
+- git clone le frontend le CRUD_angular : https://github.com/moudjane/CRUD_angular 
 - executer la commande : npm install
 - et lancer le frontend angular avec la commande : ng serve
 
